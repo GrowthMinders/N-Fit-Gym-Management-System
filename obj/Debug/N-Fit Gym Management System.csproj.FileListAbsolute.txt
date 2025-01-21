@@ -1,0 +1,12 @@
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\bin\Debug\N-Fit Gym Management System.exe.config
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\bin\Debug\N-Fit Gym Management System.exe
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\bin\Debug\N-Fit Gym Management System.pdb
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N-Fit Gym Management System.csproj.AssemblyReference.cache
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N_Fit_Gym_Management_System.Form1.resources
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N_Fit_Gym_Management_System.Properties.Resources.resources
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N-Fit Gym Management System.csproj.GenerateResource.cache
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N-Fit Gym Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N-Fit Gym Management System.exe
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N-Fit Gym Management System.pdb
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N_Fit_Gym_Management_System.UpdateMembers.resources
+C:\Users\Rizad\source\repos\N-Fit Gym Management System\N-Fit Gym Management System\obj\Debug\N_Fit_Gym_Management_System.loginForm.resources

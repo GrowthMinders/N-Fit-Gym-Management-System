@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Fit Gym Management System", "N-Fit Gym Management System\N-Fit Gym Management System.csproj", "{E7D64AAA-8FE5-4915-BC91-C6A73AA0A4E9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "RevolutionGymManagement", "RevolutionGymManagement\RevolutionGymManagement.vdproj", "{79E6B19F-954E-44A8-A2AE-69CCD3E8D10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D64AAA-8FE5-4915-BC91-C6A73AA0A4E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D64AAA-8FE5-4915-BC91-C6A73AA0A4E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D64AAA-8FE5-4915-BC91-C6A73AA0A4E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D64AAA-8FE5-4915-BC91-C6A73AA0A4E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E6B19F-954E-44A8-A2AE-69CCD3E8D10C}.Debug|Any CPU.ActiveCfg = Debug
+		{79E6B19F-954E-44A8-A2AE-69CCD3E8D10C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F24F78F-A303-4E5C-B241-C8A3FD8AFAF8}
+	EndGlobalSection
+EndGlobal
